@@ -1,5 +1,7 @@
 # Sales Trend Analysis Project  – Maven Fuzzy Factory
 
+You can view the SQL scripts used in this project here:  
+[Sales Trend Analysis Project – Maven Fuzzy Factory SQL file](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Sales%20Trend%20Analysis%20Project%20%20%E2%80%93%20Maven%20Fuzzy%20Factory.sql)
 
 Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. Traffic source analysis helps businesses identify the origins of their website visitors—whether through email, social media, search engines, direct visits, or paid campaigns—and evaluate how well each channel converts visitors into customers.
 

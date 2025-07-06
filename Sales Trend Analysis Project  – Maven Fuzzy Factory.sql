@@ -8,8 +8,14 @@ FROM
 
 -- Finding Top Traffic Source
 SELECT
-	utm_source,
-	utm_campaign,
+	CASE
+        WHEN utm_source IS NULL THEN 'Other Channels'
+        ELSE utm_source
+	END AS utm_source,
+	CASE
+        WHEN utm_campaign IS NULL THEN 'Other Channels'
+        ELSE utm_campaign
+	END AS utm_campaign,
     http_referer,
     COUNT(DISTINCT website_session_id) AS sessions
 FROM

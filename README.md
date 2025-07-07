@@ -98,11 +98,6 @@ This confirms that device-level bid adjustments can effectively boost traffic vo
 - SQL Scripts:  
   [Sales Trend Analysis Project – Maven Fuzzy Factory SQL file](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Sales%20Trend%20Analysis%20Project%20%20%E2%80%93%20Maven%20Fuzzy%20Factory.sql)
 
-## Resources
-
-- SQL Scripts:  
-  [Sales Trend Analysis Project – Maven Fuzzy Factory SQL file](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Sales%20Trend%20Analysis%20Project%20%20%E2%80%93%20Maven%20Fuzzy%20Factory.sql)
-
 - Tableau Dashboards:  
   [Traffic Source Trending Chart](https://public.tableau.com/views/TrafficSourceTrending_17517955194920/Sheet1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   [Traffic Source Segment Trending by Device Type](https://public.tableau.com/views/TrafficSourceSegmentTrendingbyDeviceType/Sheet1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

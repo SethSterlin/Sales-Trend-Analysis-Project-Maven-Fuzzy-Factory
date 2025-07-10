@@ -53,21 +53,33 @@ Simultaneously, I plan to **analyze performance trends across different device t
 By continuously monitoring these metrics and iterating on campaign elements such as the landing page and ad creatives, I aim to improve conversion rates, optimize marketing ROI, and support sustainable growth.
 
 ## STEP 3: Analyze Traffic Source Trending Over Time
+Based on the conversion rate (CVR) analysis, **the marketing team decided to bid down on Google Search (non-brand) on May 15, 2012** campaigns.
+
+I would like to further explore whether this bid change could have been a contributing factor to the observed **drop in traffic volume**.
 
 To understand how the _Google Search (nonbrand)_ campaign's traffic volume changed during the initial launch period, I analyzed weekly session counts.
 
 Using session data grouped by week, I observed the following trend:  
-![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/screenshot20250706144456.png?raw=true)
 
-Weekly traffic for the _Google Search (nonbrand)_ campaign peaked in early April but then declined steadily. This suggests that traffic volume is quite sensitive to bid adjustments, highlighting the importance of careful bid management.
 
-My goal is to achieve maximum traffic volume from this campaign while carefully controlling ad spend. Since the campaign’s conversion rate is below expectations, I want to avoid overspending on ads that do not generate sufficient return.
 
-By closely monitoring traffic trends alongside conversion performance, I can adjust bidding strategies to balance volume and cost efficiency, ensuring sustainable and profitable marketing efforts.
+From this, I observe:
+
+-   📈 A **peak** in traffic during the week of **2012-04-01** (1,152 sessions).
+    
+-   📉 A **sharp and consistent drop** in traffic starting from **2012-04-08**, falling to **399** by **2012-05-06**.
+    
+-   This represents a **65% drop** from the peak.
+    
+
+----------
+
+> Although there was a clear drop in sessions following the bid reduction on April 15, 2012, there were already signs of declining traffic volume in the weeks prior. This indicates that the traffic volume may have been influenced by multiple factors beyond just the bid change.
+  
 
 ## STEP 4: Conversion Rate by Device Type and Bid Optimization
 
-Since Google Search (nonbrand) traffic volume is sensitive to bid changes, I analyzed conversion rates by device type. This helps me adjust bids separately for desktop and mobile, improving ad spend efficiency and maximizing campaign performance.
+Since I was found Google Search (nonbrand) traffic volume is sensitive to bid changes, I analyzed conversion rates by device type. This helps me adjust bids separately for desktop and mobile, improving ad spend efficiency and maximizing campaign performance.
 
 ![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/screenshot20250706145453.png?raw=true)
 
@@ -83,7 +95,7 @@ Based on the previous analysis, the marketing team increased bids for the _Googl
 
 In this step, I analyzed weekly session trends for desktop and mobile traffic from April 15th onwards to observe the impact of the bid increase.
 
-![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/screenshot20250706163123.png?raw=true)
+![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Traffic%20Source%20Segment%20Trending%20by%20Device%20Type.png?raw=true)
 
 ### Key Insights
 

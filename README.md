@@ -31,7 +31,7 @@ Given the large volume of traffic, small improvements in conversion rate (CVR) c
 
 🎯 **Business Question:**
 
-> Is the *Google Search (nonbrand) * campaign not only driving traffic but also converting visitors effectively?
+> Is the Google Search (nonbrand) campaign not only driving traffic but also converting visitors effectively?
 
 I set a performance benchmark:
 

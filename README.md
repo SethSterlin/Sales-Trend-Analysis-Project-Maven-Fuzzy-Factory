@@ -1,4 +1,5 @@
 
+
 # Sales Trend Analysis Project – Maven Fuzzy Factory
 
 Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. Traffic source analysis helps me identify the origins of website visitors—whether through email, social media, search engines, direct visits, or paid campaigns—and evaluate how well each channel converts visitors into customers.
@@ -60,7 +61,7 @@ I would like to further explore whether this bid change could have been a contri
 To understand how the _Google Search (nonbrand)_ campaign's traffic volume changed during the initial launch period, I analyzed weekly session counts.
 
 Using session data grouped by week, I observed the following trend:  
-
+![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Traffic%20Source%20Trending.png?raw=true)
 
 
 From this, I observe:

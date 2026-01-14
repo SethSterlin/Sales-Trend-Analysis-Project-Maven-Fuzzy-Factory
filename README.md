@@ -100,9 +100,21 @@ In this step, I analyzed weekly session trends for desktop and mobile traffic fr
 
 ### Key Insights
 
+-    Desktop CVR: 3.73%
+
+-    Mobile CVR: 0.96%
+
 After increasing bids for desktop traffic starting the week of May 20, 2012, desktop sessions showed a significant increase, rising from around 400 sessions per week to over 660 sessions. Meanwhile, mobile sessions continued to decline slightly.
 
 This confirms that device-level bid adjustments can effectively boost traffic volume in targeted segments. It highlights the value of segmenting marketing efforts by device type to maximize campaign performance and optimize ad spend.
+
+### Recommendation
+
+-    Decrease bids for low-performing mobile traffic
+
+-    Prioritize desktop traffic where conversion efficiency is significantly higher
+
+-    This device-level analysis enables more precise budget allocation and improved ROI.
 
 ---
 

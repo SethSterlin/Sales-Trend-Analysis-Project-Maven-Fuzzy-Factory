@@ -100,9 +100,9 @@ In this step, I analyzed weekly session trends for desktop and mobile traffic fr
 
 ### Key Insights
 
--    Desktop CVR: 3.73%
+-    **Desktop CVR: 3.73%
 
--    Mobile CVR: 0.96%
+-    **Mobile CVR: 0.96%
 
 After increasing bids for desktop traffic starting the week of May 20, 2012, desktop sessions showed a significant increase, rising from around 400 sessions per week to over 660 sessions. Meanwhile, mobile sessions continued to decline slightly.
 

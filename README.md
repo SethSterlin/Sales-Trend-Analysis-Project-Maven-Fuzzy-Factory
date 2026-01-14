@@ -1,10 +1,10 @@
 # Sales Trend Analysis Project – Maven Fuzzy Factory
 
-Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. Traffic source analysis helps me identify the origins of website visitors—whether through email, social media, search engines, direct visits, or paid campaigns—and evaluate how well each channel converts visitors into customers.
+Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. **Traffic source analysis** helps me identify the origins of website visitors—whether through **email, social media, search engines, direct visits, or paid** campaigns—and evaluate how well each channel converts visitors into customers.
 
 This analysis not only measures visitor volume but also conversion rates, which represent the percentage of sessions that lead to sales or revenue-generating actions. By linking website session data with order data, I can assess the effectiveness of marketing campaigns, optimize ad spend, and improve overall return on investment.
 
-In this project, I explored three key datasets: website sessions, pageviews, and orders, examining how they interact to provide insights into user behavior and campaign performance. With this foundation, I used SQL queries and visualization tools to analyze traffic sources and conversion efficiency, enabling data-driven marketing decisions.
+In this project, I explored three key datasets: website sessions, pageviews, and orders, examining how they interact to provide insights into user behavior and campaign performance. With this foundation, I **used SQL queries and visualization tools to analyze traffic sources and conversion efficiency**, enabling data-driven marketing decisions.
 
 ## STEP 1 : Finding Top Traffic Source
 
@@ -100,9 +100,9 @@ In this step, I analyzed weekly session trends for desktop and mobile traffic fr
 
 ### Key Insights
 
--    **Desktop CVR: 3.73%
+-    **Desktop CVR: 3.73%**
 
--    **Mobile CVR: 0.96%
+-    **Mobile CVR: 0.96%**
 
 After increasing bids for desktop traffic starting the week of May 20, 2012, desktop sessions showed a significant increase, rising from around 400 sessions per week to over 660 sessions. Meanwhile, mobile sessions continued to decline slightly.
 

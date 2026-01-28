@@ -76,7 +76,7 @@ Using SQL and visualization tools, I analyzed traffic sources, conversion rates,
 
 ---
 
-##Sales & Traffic Source Analysis – From Acquisition to Conversion
+## Sales & Traffic Source Analysis – From Acquisition to Conversion
 
 Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. **Traffic source analysis** helps me identify the origins of website visitors—whether through **email, social media, search engines, direct visits, or paid** campaigns—and evaluate how well each channel converts visitors into customers.
 

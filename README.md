@@ -21,6 +21,10 @@ Using SQL and visualization tools, I analyzed traffic sources, conversion rates,
 
 ---
 
+[Maven Fuzzy Factory](https://github.com/SethSterlin/A-B-Landing-Page-Test-Maven-Fuzzy-Factory/blob/main/Calculate%20Bounce%20Rate.sql)  
+
+---
+
 ## Objectives
 
 1. Identify top traffic sources driving website sessions  

@@ -1,5 +1,83 @@
 # Sales Trend Analysis Project – Maven Fuzzy Factory
 
+## Project Summary
+
+This project focuses on **analyzing traffic sources and marketing performance** to understand  
+**where customers come from and which channels drive the highest-quality traffic and conversions**.
+
+By linking **website session data with order data**, I evaluated both **traffic volume and conversion efficiency** across marketing channels. The analysis supports **data-driven decisions on ad spend, bidding strategy, and campaign optimization**, with the ultimate goal of improving **marketing ROI and sustainable growth**.
+
+Using SQL and visualization tools, I analyzed traffic sources, conversion rates, trends over time, and performance by device type to identify actionable insights for marketing strategy optimization.
+
+---
+
+## Project Highlights
+
+- Identified **Google Search (nonbrand)** as the primary traffic source (>90% of sessions)  
+- Measured **conversion rate below benchmark** (2.88% vs expected 4%)  
+- Analyzed **traffic trends before and after bid adjustments**  
+- Discovered significant **conversion rate differences by device type**  
+- Demonstrated that **device-level bid optimization improved desktop traffic volume**  
+
+---
+
+## Objectives
+
+1. Identify top traffic sources driving website sessions  
+2. Evaluate conversion efficiency by marketing channel  
+3. Assess the impact of bid changes on traffic volume over time  
+4. Compare conversion rates by device type to optimize bidding strategy  
+5. Provide data-backed recommendations to improve marketing ROI  
+
+---
+
+## Key Metrics & Analysis
+
+### Key Metrics
+- Sessions  
+- Orders  
+- Conversion Rate (CVR)  
+- Traffic Source Distribution  
+- Sessions by Device Type  
+- Weekly Traffic Trends  
+
+### Key Analyses
+- Traffic source analysis to identify top acquisition channels  
+- Session-to-order conversion rate calculation  
+- Trend analysis of traffic volume over time  
+- Pre- and post-bid change comparison  
+- Device-level conversion rate analysis (Desktop vs Mobile)  
+
+### Key Findings
+- **Google Search (nonbrand) CVR:** 2.88% (below 4% benchmark)  
+- **Desktop CVR:** 3.73%  
+- **Mobile CVR:** 0.96%  
+- Traffic volume dropped ~65% after peak, influenced by bid changes and other factors  
+- Increasing desktop bids successfully restored desktop traffic volume  
+
+---
+
+## Business Outcomes
+
+- Identified underperforming traffic sources requiring bid optimization  
+- Reduced inefficient ad spend on low-converting segments  
+- Improved budget allocation through **device-level bidding strategy**  
+- Enabled more accurate evaluation of marketing campaign effectiveness  
+- Provided actionable insights to improve **conversion efficiency and ROI**  
+
+---
+
+## Tools Used
+
+- **SQL** — Traffic source analysis, conversion rate calculation, trend analysis  
+- **Tableau** — Traffic trends and campaign performance visualization  
+- **GitHub** — Version control and project documentation  
+- **Relational Database** — Website sessions, pageviews, and order data  
+
+---
+
+##Sales & Traffic Source Analysis – From Acquisition to Conversion
+
 Understanding where customers come from and which marketing channels drive the highest quality traffic is a fundamental business concept. **Traffic source analysis** helps me identify the origins of website visitors—whether through **email, social media, search engines, direct visits, or paid** campaigns—and evaluate how well each channel converts visitors into customers.
 
 This analysis not only measures visitor volume but also conversion rates, which represent the percentage of sessions that lead to sales or revenue-generating actions. By linking website session data with order data, I can assess the effectiveness of marketing campaigns, optimize ad spend, and improve overall return on investment.
@@ -71,9 +149,6 @@ From this, I observe:
 -   📉 A **sharp and consistent drop** in traffic starting from **2012-04-08**, falling to **399** by **2012-05-06**.
     
 -   This represents a **65% drop** from the peak.
-    
-
-----------
 
 > Although there was a clear drop in sessions following the bid reduction on April 15, 2012, there were already signs of declining traffic volume in the weeks prior. This indicates that the traffic volume may have been influenced by multiple factors beyond just the bid change.
   
@@ -98,6 +173,8 @@ In this step, I analyzed weekly session trends for desktop and mobile traffic fr
 
 ![enter image description here](https://github.com/SethSterlin/Sales-Trend-Analysis-Project-Maven-Fuzzy-Factory/blob/main/Traffic%20Source%20Segment%20Trending%20by%20Device%20Type.png?raw=true)
 
+---
+
 ### Key Insights
 
 -    **Desktop CVR: 3.73%**
@@ -107,6 +184,8 @@ In this step, I analyzed weekly session trends for desktop and mobile traffic fr
 After increasing bids for desktop traffic starting the week of May 20, 2012, desktop sessions showed a significant increase, rising from around 400 sessions per week to over 660 sessions. Meanwhile, mobile sessions continued to decline slightly.
 
 This confirms that device-level bid adjustments can effectively boost traffic volume in targeted segments. It highlights the value of segmenting marketing efforts by device type to maximize campaign performance and optimize ad spend.
+
+---
 
 ### Recommendation
 
